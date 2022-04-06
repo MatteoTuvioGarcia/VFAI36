@@ -1,3 +1,7 @@
 Exe/
-Exe
+/Exe/
 Exe/*
+\Exe\
+Exe\
+/.Exe
+/.Exe/
